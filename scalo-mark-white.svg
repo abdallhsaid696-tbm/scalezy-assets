@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Scalo">
+  <!-- White version for the OTP email header band (D-40): transparent background, same curved S and coin as scalo-mark.svg. -->
+  <path d="M82 43 C80 35 73 31 63 31 C50 31 42 38 42 47 C42 57 50 60 63 63.5 C76 67 85 70 85 80 C85 90 77 97 64 97 C53 97 45 92 43 84"
+        fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90" cy="41" r="9" fill="#FE3301" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="38" y="108" width="52" height="5" rx="2.5" fill="#FFFFFF" opacity=".85"/>
+</svg>
